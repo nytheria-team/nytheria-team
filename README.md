@@ -18,8 +18,6 @@ Nosso servidor integra **mecânicas de RPG**, como:
 
 - 🧙‍♂️ **Evolução de Personagens**
 - ⚡ **Habilidades Especiais**
-- 🗺️ **Missões épicas**
-- 🌍 **Mundo aberto para explorar**
 
 Os jogadores poderão **explorar**, **evoluir** e **interagir** com outros jogadores enquanto buscam aventuras e superam desafios **épicos**! 🚀✨
 
